@@ -1,20 +1,50 @@
-## Hi there 👋 I'm JackuXL.
+<h1 align="center">Hi there 👋, I'm JackuXL</h1>
 
-<div><img src = https://camo.githubusercontent.com/6d155d2788abc10977bdaa44d4a038670db44f7dafdbf21f8a03601a56af186f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4a61636b75584c>  <img src = "https://camo.githubusercontent.com/0ea6b40f864824abfa4c5513312be0e3603305de61d36339fc0d6a397c638365/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4a61636b75584c266c61796f75743d636f6d70616374"></div>
+<p align="center">
+  <a href="https://twitter.com/JackuXL_">
+    <img src="https://img.shields.io/twitter/follow/JackuXL_?color=1ca0f1&logo=twitter&logoColor=white&style=for-the-badge&label=Follow" alt="Twitter">
+  </a>
+  <a href="mailto:jackuxl2019@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-jackuxl2019%40gmail.com-168de2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
+<p align="center">
+  <!-- GitHub stats graph -->
+  <a href="https://github.com/JackuXL">
+    <img src="https://github-readme-stats.vercel.app/api?username=JackuXL&show_icons=true&line_height=27" alt="JackuXL's GitHub Stats" height="170">
+  </a>
+  <!-- GitHub top languages graph -->
+  <a href="https://github.com/JackuXL">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackuXL&layout=compact&langs_count=5" alt="Top Languages" height="170">
+  </a>
+</p>
 
+## 🛠 Skills
+#### Relatively good at:
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
 
-## Languages
+#### Currently learning:
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
 
-#### Relatively good at
-
-[![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=fff)](https://camo.githubusercontent.com/d846bd8956cf6f558146c440a38fba8a38db81fecbbd07bb1ce9dd2c9f16bee2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4b6f746c696e2d3766353266663f7374796c653d666c61742d737175617265266c6f676f3d6b6f746c696e266c6f676f436f6c6f723d666666) [![Android](https://camo.githubusercontent.com/9a3df90c9f2acedf7d4b057ccaa4fb50fd8676ba3348529d0bf2b631716b87c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e64726f69642d3364646338343f7374796c653d666c61742d737175617265266c6f676f3d616e64726f6964266c6f676f436f6c6f723d666666)](https://camo.githubusercontent.com/9a3df90c9f2acedf7d4b057ccaa4fb50fd8676ba3348529d0bf2b631716b87c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e64726f69642d3364646338343f7374796c653d666c61742d737175617265266c6f676f3d616e64726f6964266c6f676f436f6c6f723d666666) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=fff) [![HTML5](https://camo.githubusercontent.com/2d456afd0c90568812a8c43a8e99115da6184671ae32ce58ffb7925125ce43dc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d6533346632363f7374796c653d666c61742d737175617265266c6f676f3d48544d4c35266c6f676f436f6c6f723d666666)](https://camo.githubusercontent.com/2d456afd0c90568812a8c43a8e99115da6184671ae32ce58ffb7925125ce43dc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d6533346632363f7374796c653d666c61742d737175617265266c6f676f3d48544d4c35266c6f676f436f6c6f723d666666) [![Python](https://camo.githubusercontent.com/0feaabf050dd0f2a00c06da825b44f03c9925b0ea42ee8350fbce24349e14a00/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3337373661623f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d666666)](https://camo.githubusercontent.com/0feaabf050dd0f2a00c06da825b44f03c9925b0ea42ee8350fbce24349e14a00/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3337373661623f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d666666) 
-
-#### Learning
-
-[![Node.js](https://camo.githubusercontent.com/655b3d19bf908fbe53d23ad63f1847fe6a2f7f206d9619ee07e01d13b129d159/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3333393933333f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d666666)](https://camo.githubusercontent.com/655b3d19bf908fbe53d23ad63f1847fe6a2f7f206d9619ee07e01d13b129d159/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3333393933333f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d666666) [![PHP](https://camo.githubusercontent.com/8c3ef86e20fbd99d27739dd059a17ab91ffb302bc9660087b4de48fe8a0aeb5e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5048502d3737376262343f7374796c653d666c61742d737175617265266c6f676f3d504850266c6f676f436f6c6f723d666666)](https://camo.githubusercontent.com/8c3ef86e20fbd99d27739dd059a17ab91ffb302bc9660087b4de48fe8a0aeb5e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5048502d3737376262343f7374796c653d666c61742d737175617265266c6f676f3d504850266c6f676f436f6c6f723d666666) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=fff) [![CSS3](https://camo.githubusercontent.com/b5418d058b303cb347bd942f0d12413561ad0c4c3037f2b64755c2b94f5f5bbf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373262363f7374796c653d666c61742d737175617265266c6f676f3d43535333266c6162656c436f6c6f723d313537326236)](https://camo.githubusercontent.com/b5418d058b303cb347bd942f0d12413561ad0c4c3037f2b64755c2b94f5f5bbf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373262363f7374796c653d666c61742d737175617265266c6f676f3d43535333266c6162656c436f6c6f723d313537326236)  [![JavaScript](https://camo.githubusercontent.com/96c91471c2c060f422989af40487deaa63c35ca8b977e734bf8b0c56426ffb2a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d6637646631653f7374796c653d666c61742d737175617265266c6f676f3d4a617661536372697074266c6162656c436f6c6f723d663764663165266c6f676f436f6c6f723d303030)](https://camo.githubusercontent.com/96c91471c2c060f422989af40487deaa63c35ca8b977e734bf8b0c56426ffb2a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d6637646631653f7374796c653d666c61742d737175617265266c6f676f3d4a617661536372697074266c6162656c436f6c6f723d663764663165266c6f676f436f6c6f723d303030)
-
-## Contact
-
-[![Twitter](https://img.shields.io/twitter/follow/JackuXL_?color=1ca0f1&label=Twitter&logo=twitter&logoColor=white&style=flat-square&labelColor=1ca0f1)](https://twitter.com/JackuXL_) [![Mail](https://img.shields.io/badge/jackuxl2019@gmail.com-168de2?style=flat-square&logo=mail.ru&logoColor=white&labelColor=168de2)](mailto:jackuxl2019@gmail.com)
-
+## 💬 Let's Connect!
+<p>
+  <a href="https://twitter.com/JackuXL_">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="mailto:jackuxl2019@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
