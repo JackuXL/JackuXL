@@ -1,13 +1,8 @@
-<h1 align="center">Hi there 👋, I'm JackuXL</h1>
-
 <p align="center">
-  <a href="https://twitter.com/JackuXL_">
-    <img src="https://img.shields.io/twitter/follow/JackuXL_?color=1ca0f1&logo=twitter&logoColor=white&style=for-the-badge&label=Follow" alt="Twitter">
-  </a>
-  <a href="mailto:jackuxl2019@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-jackuxl2019%40gmail.com-168de2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <img src="https://github.com/JackuXL.png?size=100" style="border-radius:50%;" alt="GitHub Avatar">
 </p>
+
+<h1 align="center">Hi there 👋, I'm JackuXL</h1>
 
 <p align="center">
   <!-- GitHub stats graph -->
