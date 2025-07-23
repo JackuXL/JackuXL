@@ -5,10 +5,6 @@
 <h1 align="center">Hi there 👋, I'm JackuXL</h1>
 
 <p align="center">
-  <!-- GitHub stats graph -->
-  <a href="https://github.com/JackuXL">
-    <img src="https://github-readme-stats.vercel.app/api?username=JackuXL&show_icons=true&line_height=27" alt="JackuXL's GitHub Stats" height="170">
-  </a>
   <!-- GitHub top languages graph -->
   <a href="https://github.com/JackuXL">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackuXL&layout=compact&langs_count=5" alt="Top Languages" height="170">
