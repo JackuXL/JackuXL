@@ -7,9 +7,11 @@
 <p align="center">
   <!-- GitHub top languages graph -->
   <a href="https://github.com/JackuXL">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackuXL&layout=compact&langs_count=5" alt="Top Languages" height="170">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JackuXL&theme=transparent" alt="Summary" height="250">
   </a>
 </p>
+
+
 
 ## 🛠 Skills
 #### Relatively good at:
